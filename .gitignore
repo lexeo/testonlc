@@ -1,0 +1,7 @@
+### PHP Storm
+/.idea/
+
+/vendor/
+
+## PHPUnit
+/phpunit.xml
